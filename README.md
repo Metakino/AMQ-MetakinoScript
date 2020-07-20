@@ -1,5 +1,4 @@
-# AMQ-MetakinoScript
-My scripts for AMQ.  
+# Metakino's AMQ Script
 It's more of a way for me to learn Javascript, so most of them aren't too much developped and just tests scripts.  
 Maybe later in the future I'll make some bigger ones or just improve my tests script, I'll see if I get gud enough.
 

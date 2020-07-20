@@ -13,4 +13,4 @@ Simply add Hotkeys to update your list without going into the settings.
 - MyAnimeList : Alt + Y
 
 It should be working (I hope)  
-Though if you wanna change your list, you still have to go in the settings. It's just if like you've got some new bulli entries and to avoid 2 useless clicks. (hello laziness).  
+Though if you wanna change your list, you still have to go in the settings. It's just if like you've got some new bulli entries and to avoid 2 useless clicks. (hello laziness)

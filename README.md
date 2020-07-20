@@ -5,9 +5,12 @@ Maybe later in the future I'll make some bigger ones or just improve my tests sc
 
 ## Update Hotkey
 
-First script just to try it out.
+First script just to try it out.  
 Simply add Hotkeys to update your list without going into the settings.
 
 - Anilist : Alt + R
 - Kitsu : Alt + T
 - MyAnimeList : Alt + Y
+
+It should be working (I hope)  
+Though if you wanna change your list, you still have to go in the settings. It's just if like you've got some new bulli entries and to avoid 2 useless clicks. (hello laziness).  

@@ -4,7 +4,7 @@ It's more of a way for me to learn Javascript, so most of them aren't too much d
 Maybe later in the future I'll make some bigger ones or just improve my tests script, I'll see if I get gud enough.
 
 To install them, just select you wanted one (There's just one for the moment, no need to hesitate) and click on "Raw".  
-If you have Tampermonkey it should ask you to install it directly.
+Then if you have Tampermonkey it should ask you to install it directly. If you don't, download Tampermonkey extension on your browser beforehand.
 
 ## Update Hotkey
 

@@ -1,3 +1,12 @@
+$("#settingModal .tabContainer")
+    .append($("<div></div>")
+        .addClass("tab leftRightButtonTop clickAble")
+        .attr("onClick", "options.selectTab('settingsTest', this)")
+        .append($("<h5></h5>")
+            .text("Test")
+        )
+    );
+
 $("#settingModal #settingsAnimeListContainer")
     .append($("<div></div>")
         .addClass("modal fade")

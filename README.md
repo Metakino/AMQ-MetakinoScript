@@ -17,9 +17,9 @@ Simply add Hotkeys to update your list without going into the settings.
 It should be working... I hope    
 Though if you wanna change your list, you still have to go in the settings. It's just if like you've got some new bulli entries and to avoid 2 useless clicks. (hello laziness)
 
-## List Saving
+## List Saving (Uncomplete)
 
-### **!! UNFINISHED SCRIPT !!**
+### **!! Script still in development !!**
  
 The goal of this script is to allow you to save several lists (If you play on a few different lists or for your training lists) and to load them into the game within just a few clicks.
 

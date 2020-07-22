@@ -70,6 +70,5 @@ for (let i = 0; i<5; i++){
         )
 };
 
-
 options.$SETTING_TABS = $("#settingModal .tab");
 options.$SETTING_CONTAINERS = $(".settingContentContainer");

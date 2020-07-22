@@ -19,7 +19,7 @@ Though if you wanna change your list, you still have to go in the settings. It's
 
 ## List Saving
 
- !! UNFINISHED SCRIPT !!
+### **!! UNFINISHED SCRIPT !!**
  
 The goal of this script is to allow you to save several lists (If you play on a few different lists or for your training lists) and to load them into the game within just a few clicks.
 

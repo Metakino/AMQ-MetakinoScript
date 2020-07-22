@@ -16,3 +16,17 @@ Simply add Hotkeys to update your list without going into the settings.
 
 It should be working... I hope    
 Though if you wanna change your list, you still have to go in the settings. It's just if like you've got some new bulli entries and to avoid 2 useless clicks. (hello laziness)
+
+## List Saving
+
+ !! UNFINISHED SCRIPT !!
+ 
+The goal of this script is to allow you to save several lists (If you play on a few different lists or for your training lists) and to load them into the game within just a few clicks.
+
+TODO : 
+- Setup the localStorage for the Lists
+- Make functional the saving function
+- Create de window "Loading Saved List"
+- Make functional the loading function
+- Basically everything apart the "Saving list" interface
+- And also rename "Preset List" into "Saved List" coz I'm a lil retard ♿

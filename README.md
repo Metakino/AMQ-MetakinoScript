@@ -23,7 +23,7 @@ Though if you wanna change your list, you still have to go in the settings. It's
  
 The goal of this script is to allow you to save several lists (If you play on a few different lists or for your training lists) and to load them into the game within just a few clicks; avoiding you to go into settings and manually enter the name of the list everytime. (I'm looking at yall ladder Top1K players)
 
-TODO : 
+**TODO :** 
 - Setup the localStorage for the Lists
 - Make functional the saving function
 - Create de window "Loading Saved List"

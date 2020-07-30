@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AMQ List Saving
+// @name         AMQ List Saving & Quick Load
 // @namespace    https://github.com/Metakino
 // @version      0.1
 // @description  Allow you to save different lists and load them quicker

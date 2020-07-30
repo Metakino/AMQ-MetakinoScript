@@ -30,3 +30,5 @@ To save a list, go to **Settings -> Anime List -> Open List Saving Interface**. 
 Once this done, you can open the List Loading window at any moment in the game by **pressing Alt+Q**. Then you just have to load the list you want and... play :)
 
 You can save up to **5 lists** for the moment. More list means bigger interface *(so hard to not look ugly)* and I doubt anybody uses billion of lists anyway. Might increase the cap later though.
+
+And yhea I thought too late about being able to update the lists saved from the window, but it's working now so don't cry KEK

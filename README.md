@@ -7,6 +7,8 @@ Then if you have Tampermonkey it should ask you to install it directly. If you d
 
 ## Update Hotkey
 
+### ver 1.0 - stable (No bug reported *yet*)
+
 First script just to try it out.  
 Simply add Hotkeys to update your list without going into the settings.
 
@@ -17,16 +19,14 @@ Simply add Hotkeys to update your list without going into the settings.
 It should be working... I hope    
 Though if you wanna change your list, you still have to go in the settings. It's just if like you've got some new bulli entries and to avoid 2 useless clicks. (hello laziness)
 
-## List Saving (Uncomplete)
+## List Saving & Quick Loading
 
-### **!! Script still in development !!**
+### ver 1.0 - stable (No bug reported *yet*)
  
-The goal of this script is to allow you to save several lists (If you play on a few different lists or for your training lists) and to load them into the game within just a few clicks; avoiding you to go into settings and manually enter the name of the list everytime. (I'm looking at yall ladder Top1K players)
+This script allows you to save lists and load them quickly without having to write its name in settings each time (For those who are playing on different lists or with training lists).
 
-**TODO :** 
-- Setup the localStorage for the Lists
-- Make functional the saving function
-- Create de window "Loading Saved List"
-- Make functional the loading function
-- Basically everything apart the "Saving list" interface
-- And also rename "Preset List" into "Saved List" coz I'm a lil retard ♿
+To save a list, go to **Settings -> Anime List -> Open List Saving Interface**. Then write the name of the list you want to save, choose the site it's on and save it.
+
+Once this done, you can open the List Loading window at any moment in the game by **pressing Alt+Q**. Then you just have to load the list you want and... play :)
+
+You can save up to **5 lists** for the moment. More list means bigger interface *(so hard to not look ugly)* and I doubt anybody uses billion of lists anyway. Might increase the cap later though.

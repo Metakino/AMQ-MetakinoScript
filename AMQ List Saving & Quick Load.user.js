@@ -242,6 +242,7 @@ function setListSavedInputs(listData, index){
 
 /** --- functions call + list update --- **/
 
+
 function loadList(i){
     if(listSaved[i].site=="anilist"){
         $('#aniListUserNameInput').val(listSaved[i].name);

@@ -248,10 +248,10 @@ function loadList(i){
     if(listSaved[i].site=="anilist"){
         $('#aniListUserNameInput').val(listSaved[i].name);
         options.updateAniList()
-    } else if(listSaved[i].site=="kitsu"){
+    } else if(listSaved[i].site=="mal"){
         $('#malUserNameInput').val(listSaved[i].name);
         options.updateMal()
-    } else if(listSaved[i].site=="mal"){
+    } else if(listSaved[i].site=="kitsu"){
         $('#kitsuUserNameInput').val(listSaved[i].name);
         options.updateKitsu()
     }

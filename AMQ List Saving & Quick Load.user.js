@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         AMQ List Saving & Quick Load
+// @name         AMQ List Saving
 // @namespace    https://github.com/Metakino
-// @version      0.1
+// @version      1.0
 // @description  Allow you to save different lists and load them quicker
 // @author       Metakino
 // @match        https://animemusicquiz.com/*
@@ -56,7 +56,7 @@ $("#settingModal .modal-body")
         .append($("<div></div>")
             .addClass("listSavingBody")
             .append($("<p>Write the name of the list you want to preset and choose the site it's on.<br> You're allowed up to 5 lists for the moment."
-                      + "<br> To open the List Saving window, press Alt+A at any time on the site. From this you'll be able to load in one click one of your preset list</p>"))
+                      + "<br> To open the List Saving window, press Alt+Q at any time on the site. From this you'll be able to load in one click one of your preset list</p>"))
         )
     );
 

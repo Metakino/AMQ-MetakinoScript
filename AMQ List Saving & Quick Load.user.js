@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AMQ List Saving
+// @name         AMQ List Saving & Quick Load
 // @namespace    https://github.com/Metakino
 // @version      1.0
 // @description  Allow you to save different lists and load them quicker
@@ -23,10 +23,7 @@ let listSaved = [];
 
 for (let i = 0; i<maxSave; i++){
     listSaved.push(
-        {
-            name: "",
-            site: "anilist",
-        }
+        {name: "",site: "anilist",}
     );
 };
 
@@ -206,18 +203,19 @@ function key_up(event) {
 
 // Called everytime a list is saved to store it
 function storeListSaving(listName, listSite, id){
-    if (listName != ""){
-        id = parseFloat(id)
+    id = parseFloat(id)
         listSaved[id] = {name: listName, site: listSite};
         localStorage.setItem("listSaved", JSON.stringify(listSaved));
+    if (listName != ""){
         displayMessage("Update Successful", "This list has been saved in slot "+(id+1))
+    } else {
+        displayMessage("Update Successful", "The list in slot "+(id+1)+" has been removed")
     }
     updateListSaved();
 }
 
 // Load the saved lists
-function loadSettings() {
-    // load settings, if nothing is loaded, use default settings
+function loadSavedLists() {
     let loadedLists = localStorage.getItem("listSaved");
     if (loadedLists !== null) {
         listSaved = JSON.parse(loadedLists);
@@ -259,7 +257,7 @@ function loadList(i){
 
 
 // All functions called at the page's loading
-loadSettings();
+loadSavedLists();
 createListLoadingWindow();
 
 

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AMQ List Saving & Quick Load
 // @namespace    https://github.com/Metakino
-// @version      1.0
+// @version      1.2
 // @description  Allow you to save different lists and load them quicker
 // @author       Metakino
 // @match        https://animemusicquiz.com/*

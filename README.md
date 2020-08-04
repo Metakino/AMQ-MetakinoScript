@@ -8,7 +8,7 @@ Then if you have Tampermonkey it should ask you to install it directly. If you d
 
 ## List Saving & Quick Loading
 
-### ver 1.0 - stable (No bug reported *yet*)
+### ver 1.2 - stable (No bug reported *yet*)
  
 This script allows you to save lists and load them quickly without having to write its name in settings each time (For those who are playing on different lists or with training lists).
 

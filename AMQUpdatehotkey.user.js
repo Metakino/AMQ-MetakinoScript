@@ -14,11 +14,10 @@ if (!window.setupDocumentDone) return;
 
 function key_up(event) {
     if(event.altKey && event.keyCode==82) {
-		options.updateAniList();
+	options.updateAniList();
 	} else if(event.altKey && event.keyCode==84){
         options.updateKitsu();
     }else if(event.altKey && event.keyCode==89){
-        console.log(lobby.soloMode);
         options.updateMal();
     }
 };

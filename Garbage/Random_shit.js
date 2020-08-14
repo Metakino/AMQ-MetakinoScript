@@ -28,3 +28,13 @@ $("#settingModal #settingsAnimeListContainer")
                )
         )
     );
+
+function getFriendList(){
+    friendListAR = [];
+    onlineUserAR = [];
+    let fl = document.querySelector("#friendOnlineList").querySelectorAll('.stPlayerName');
+    let ul = document.querySelector("#allUserList").querySelectorAll('.stPlayerName');
+    fl.forEach(element => friendListAR.push(element.innerText.trim()));
+    ul.forEach(element => onlineUserAR.push(element.innerText.trim()));
+    updateFrUsList();
+}

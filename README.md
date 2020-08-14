@@ -40,5 +40,5 @@ Though if you wanna change your list, you still have to go in the settings. It's
 
 ### ver 1.0 - stable (No bug reported *yet*)
 
-Show you the number of blocked players on the Blocked Player window.
+Show you the number of blocked players on the Blocked Player window.  
 Don't ask me why I did this thank you.

@@ -16,7 +16,7 @@ if (!window.setupDocumentDone) return;
 
 let blockedCount;
 
-$("div#optionsContainer > ul > li:eq(4)").addClass("kek")
+$("div#optionsContainer > ul > li:eq(4)")
     .click(function () {
     blockedCount = socialTab.blockedPlayers.length;
     $(".blockedIndicator" ).remove();

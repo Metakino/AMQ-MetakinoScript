@@ -23,7 +23,7 @@ And yhea I thought too late about being able to update the lists saved from the 
 
 ## Update Hotkey
 
-### ver 1.0 - stable (No bug reported *yet*)
+### ver 1.1 - stable (No bug reported *yet*)
 
 First script just to try it out.  
 Simply add Hotkeys to update your list without going into the settings.
@@ -34,3 +34,11 @@ Simply add Hotkeys to update your list without going into the settings.
 
 It should be working... I hope    
 Though if you wanna change your list, you still have to go in the settings. It's just if like you've got some new bulli entries and to avoid 2 useless clicks. (hello laziness)
+
+
+## Blocked Players Counter
+
+### ver 1.0 - stable (No bug reported *yet*)
+
+Show you the number of blocked players on the Blocked Player window.
+Don't ask me why I did this thank you.

@@ -24,7 +24,7 @@ $("div#mhInsertTypeContainer div.checkboxContainer div:eq(0) p")
     .html("Hibike");
 
 // Fuck klinsk
-$("div#mhInsertTypeContainer div.checkboxContainer div:eq(1) p")
+$("div#mhInsertTypeContainer div.checkboxContainer div:eq(2) p")
     .html("Klinsk");
 
 

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AMQ Typo fix
 // @namespace    https://github.com/Metakino
-// @version      1.0
+// @version      1.1
 // @description  Allow you to save different lists and load them quicker
 // @author       Metakino
 // @match        https://animemusicquiz.com/*

@@ -9,6 +9,4 @@
 // @grant        none
 // ==/UserScript==
 
-if (!window.setupDocumentDone) return;
-
 $("#countdownPromoContainer").hide();
